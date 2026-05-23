@@ -1,4 +1,4 @@
-Fixify Agent Reliability is a portable Python package for converting AI-agent workflow failures into incidents, repair briefs, eval scaffolds, smoke checks, and close-check evidence. It satisfies the reliability need that agent systems often miss: a failure should become a testable invariant instead of a chat-only lesson. It demonstrates agent engineering capabilities around deterministic guardrails, CLI tooling, artifact contracts, triage heuristics, and verification-first workflow design.
+Fixify generally solves the problem of an agent making the same mistake twice. 
 
 ## Install For Local Development
 
